@@ -1,0 +1,1 @@
+add_executable(06-pthreads-mutex 06-pthreads-mutex.c)

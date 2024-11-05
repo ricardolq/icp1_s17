@@ -1,0 +1,1 @@
+add_executable(07-pthreads-condvar 07-pthreads-condvar.c)

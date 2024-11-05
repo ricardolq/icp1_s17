@@ -1,0 +1,1 @@
+add_executable(05-pthreads 05-pthreads.c)

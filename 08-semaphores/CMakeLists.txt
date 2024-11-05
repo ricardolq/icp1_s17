@@ -1,0 +1,1 @@
+add_executable(08-semaphores 08-semaphores.c)

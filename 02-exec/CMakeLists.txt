@@ -1,0 +1,1 @@
+add_executable(02-exec 02-exec.c)
