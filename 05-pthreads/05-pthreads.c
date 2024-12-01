@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <pthread.h>
+#include <stdlib.h>
 
 void *thread_function(void *arg) {
     int num = *(int *)arg;

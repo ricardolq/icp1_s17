@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
+project(icp1_s17 LANGUAGES C)
+
 add_subdirectory(01-fork)
 add_subdirectory(02-exec)
 add_subdirectory(03-forkplusexec)
